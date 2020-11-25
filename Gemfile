@@ -10,7 +10,7 @@ gem 'pg'
 gem 'activeadmin', github: 'activeadmin'
 gem 'ransack'
 gem 'inherited_resources', github: 'activeadmin/inherited_resources'
-gem 'puma', '~> 3.0'
+gem 'puma', '~> 3.12'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 gem 'devise'
